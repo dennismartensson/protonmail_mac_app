@@ -1,0 +1,15 @@
+{
+    "name": "indiechat",
+    "main": "index.html",
+    "window": {
+        "toolbar": false,
+        "width": 1000,
+        "height": 700,
+        "frame": true,
+        "position": "mouse"
+    },
+    "user-agent": {
+        "name": "indiechat_mac"
+    },
+    "chromium-args": "--ignore-certificate-errors"
+}
